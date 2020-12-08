@@ -1,5 +1,5 @@
 ---
-permalink: /paper
+permalink: /paper/
 title: "Paper"
 header:
   image: /assets/images/header.jpg
