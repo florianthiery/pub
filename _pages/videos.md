@@ -1,5 +1,5 @@
 ---
-permalink: /videos
+permalink: /videos/
 title: "Videos"
 header:
   image: /assets/images/header.jpg

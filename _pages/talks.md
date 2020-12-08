@@ -1,5 +1,5 @@
 ---
-permalink: /talks
+permalink: /talks/
 title: "Talks"
 header:
   image: /assets/images/header.jpg

@@ -1,5 +1,5 @@
 ---
-permalink: /poster
+permalink: /poster/
 title: "Poster"
 header:
   image: /assets/images/header.jpg
