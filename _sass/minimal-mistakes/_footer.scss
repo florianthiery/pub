@@ -9,13 +9,13 @@
   margin-right: 0;
   width: 100%;
   margin-top: 3em;
-  color: #b03686ff;
+  color: #621e4b;
   -webkit-animation: $intro-transition;
   animation: $intro-transition;
   -webkit-animation-delay: 0.45s;
   animation-delay: 0.45s;
   background-color: $footer-background-color;
-  color: #b03686ff !important;
+  color: #621e4b !important;
 
   footer {
     @include clearfix;
@@ -43,7 +43,7 @@
   .fab,
   .far,
   .fal {
-    color: #b03686ff !important;
+    color: #621e4b !important;
   }
 }
 
