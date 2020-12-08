@@ -1,12 +1,14 @@
 main:
-  - title: "Documentation"
-    url: /doc/
-  - title: "Related Literature"
-    url: /lit/
-  - title: "Data Publications"
-    url: /datapub/
-  - title: "About"
-    url: /about/
+  - title: "Paper"
+    url: /paper/
+  - title: "Talks"
+    url: /talks/
+  - title: "Poster"
+    url: /poster/
+  - title: "Software & Data"
+    url: /rsdata/
+  - title: "Videos"
+    url: /videos/
 
 
 barDoc:
