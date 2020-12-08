@@ -7,8 +7,8 @@ main:
     url: /poster/
   - title: "Software & Data"
     url: /rsdata/
-  - title: "Videos"
-    url: /videos/
+  - title: "Conferences"
+    url: /conf/
 
 
 barDoc:

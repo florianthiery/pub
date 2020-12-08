@@ -8,6 +8,40 @@ sidebar:
   nav: "barPoster"
 ---
 
-## Scientific Talks
+## Scientific Poster
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+### 2020
+
+-   ![gb](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-squared/gb.png) Florian Thiery, Allard Mees, Dennis Gottwald (2020). _Linked Open Samian Ware - Transformation and modelling of vagueness and uncertainty_, Linked Pasts 6, University of London and British Library, virtual, 4th October 2020. DOI: [10.5281/zenodo.4293761](https://doi.org/10.5281/zenodo.4293761).
+
+-   ![de](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-squared/de.png) Florian Thiery, Timo Homburg (2020). _Linked Geodata in Action: Beispiel COVID-19_, AGIT 2020 connecting spatially – virtually (AGIT), virtual, 08th July 2020. DOI: [10.5281/zenodo.3930458](https://doi.org/10.5281/zenodo.3930458).
+
+-   ![de](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-squared/de.png) Timo Homburg, Florian Thiery (2020). _ᚑᚌᚔ Linked Ogham Stones - Semantische Modellierung und prototypische Analyse irischer Ogham-Inschriften_, DHd2020 Spielräume: Digital Humanities zwischen Modellierung und Interpretation, Paderborn, Germany, 05th March 2020. DOI: [10.5281/zenodo.3697059](https://doi.org/10.5281/zenodo.3697059).
+
+### 2019
+
+-   ![gb](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-squared/gb.png) _Alligator + AMT: A Linked Pipe for taming relative chronology_, with Allard Mees, Linked Pasts V, Bordeaux, Germany, 11st December 2019. DOI: [10.5281/zenodo.3567911](https://doi.org/10.5281/zenodo.3567911).
+
+-   ![gb](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-squared/gb.png) _Linked Pipes! Let us feed the hungry squirrels!_, Linked Pasts V, Bordeaux, Germany, 11st December 2019. DOI: [10.5281/zenodo.3567928](https://doi.org/10.5281/zenodo.3567928).
+
+-   ![de](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-squared/de.png) _Hic sunt dracones! Der digitale Wandel zur Archäologie 4.0 am Beispiel römischer Münzen_, 9. Workshop der AG CAA, Wilhelmshaven, Germany, 23rd September 2019. DOI: [10.5281/zenodo.3403057](https://doi.org/10.5281/zenodo.3403057).
+
+-   ![de](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-squared/de.png) _Academic Meta Tool – Ein RDF basiertes Web-Tool zur Modellierung des Zweifels in den Digital Humanities_, deRSE19 - Konferenz für ForschungssoftwareentwicklerInnen in Deutschland (deRSE19), Potsdam, Germany, 05th June 2019. DOI: [10.5281/zenodo.3237306](https://doi.org/10.5281/zenodo.3237306).
+
+### 2018
+
+-   ![gb](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-squared/gb.png) _RGZM-Meta-Index: A central Linked Data Hub for aligning distributed databases_, with Allard Mees, Guido Heinz, Linked Pasts IV, Mainz, Germany, 12nd December 2018. DOI: [10.5281/zenodo.2222237](https://doi.org/10.5281/zenodo.2222237).
+
+### 2017
+
+-   ![de](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-squared/de.png) _labeling system_, with Axel Kunz, Matthias Dufner, Get Together DH-RMU, Mainz, Germany, 21stSeptember 2017. DOI: [10.5281/zenodo.921997](https://doi.org/10.5281/zenodo.921997).
+
+### 2015
+
+-   ![de](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-squared/de.png) _Das Labeling System – ein freier Baukasten für kontrollierte Vokabulare_, with Michael Piotrowski and Kai-Christian Bruhn, Jahrestagung Digital Humanities im deutschsprachigen Raum, Graz, Austria, 25th February 2015. DOI: [10.5281/zenodo.2540530](https://doi.org/10.5281/zenodo.2540530).
+
+### 2014
+
+-   ![de](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-squared/de.png) _Das Labeling System – Lösen der Mehrdeutigkeiten von Räumen und deren Funktion_, with Kai-Christian Bruhn, Forum DH Mainz, Mainz, Germany, 30th July 2014. DOI: [10.5281/zenodo.292974](https://doi.org/10.5281/zenodo.292974).
+
+![gb](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-squared/gb.png) _Linking potter, pots and places: a LOD approach to samian ware_, Computer Applications and Quantitative Methods in Archaeology (CAA), Paris, France, 24th April 2014. DOI: [10.5281/zenodo.292975](https://doi.org/10.5281/zenodo.292975).
