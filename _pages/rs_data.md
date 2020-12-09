@@ -1,6 +1,6 @@
 ---
 permalink: /rsdata/
-title: "Software & Data"
+title: "Research Software & Data"
 header:
   image: /assets/images/header.jpg
   caption: "Photo credit: Florian Thiery, CC BY 4.0"
@@ -8,7 +8,7 @@ sidebar:
   nav: "barRsdata"
 ---
 
-## Datasets and Software
+## Research Software
 
 ### Academic Meta Tool
 
@@ -44,6 +44,10 @@ sidebar:
 
 -   Florian Thiery. (2017, February 24). Labeling System Vocabulary - Aldgate Edition - 24/02/2017 (b). Zenodo. <http://doi.org/10.5281/zenodo.322265>
 
+### COVID-19
+
+-   ![gb](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-squared/gb.png) Florian Thiery (2020). _Linked COVID-19 Data: Python Transformation Script_, DOI: [10.5281/zenodo.3763504](https://doi.org/10.5281/zenodo.3763504).
+
 ### Conference Repositories
 
 -   Florian Thiery. (2019, January 15). RGZM/dm-gt2019 v0.1 (Version v0.1). Zenodo. <http://doi.org/10.5281/zenodo.2540733> <https://github.com/RGZM/dm-gt2019>
@@ -58,11 +62,13 @@ sidebar:
 
 -   Florian Thiery. (2018, March 6). RGZM/amt-gt2018: first release (Version v1.0). Zenodo. <http://doi.org/10.5281/zenodo.1189254> <https://github.com/RGZM/amt-gt2018>
 
-## Research Squirrel Engineers - Datasets
+## Research Data
+
+### Linked Open Samian Ware
+
+-   ![gb](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-squared/gb.png) Florian Thiery, Allard Mees, Dennis Gottwald (2020). Linked Open Samian Ware [RGZM/samian-lod: 2020-12-04] DOI: [10.5281/zenodo.4305708](https://doi.org/10.5281/zenodo.4305708)
 
 ### COVID-19
-
--   ![gb](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-squared/gb.png) Florian Thiery (2020). _Linked COVID-19 Data: Python Transformation Script_, DOI: [10.5281/zenodo.3763504](https://doi.org/10.5281/zenodo.3763504).
 
 -   ![gb](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-squared/gb.png) Florian Thiery (2020). _Linked COVID-19 Data: Ontology_, DOI: [10.5281/zenodo.3757828](https://doi.org/10.5281/zenodo.3757828).
 

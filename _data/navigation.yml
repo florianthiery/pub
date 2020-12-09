@@ -119,3 +119,9 @@ barPoster:
     url: /talks/#2015
   - title: "2014"
     url: /talks/#2014
+
+barRsdata:
+  - title: "Research Software"
+    url: /rsdata/#research-software
+  - title: "Research Data"
+    url: /rsdata/#research-data
