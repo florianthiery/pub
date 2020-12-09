@@ -66,7 +66,24 @@ barAbout:
       - title: "Developers"
         url: /about/#developers
 
-
 barPaper:
   - title: "peer-reviewed paper"
-    url: /paper/#peer-reviewed_paper
+    url: /paper/#peer-reviewed-paper
+  - title: "non peer-reviewed paper"
+    url: /paper/#non-peer-reviewed-paper
+  - title: "extended abstrats"
+    url: /paper/#whitepaper
+  - title: "extended abstrats"
+    url: /paper/#whitepaper
+  - title: "online publications"
+    url: /paper/#online-publications
+  - title: "thesises"
+    url: /paper/#thesises
+  - title: "Squirrel Papers"
+    url: /paper/#research-squirrel-engineers---squirrel-papers
+  - title: "KonGeoS Papers"
+    url: /paper/#kongeos-papers
+  - title: "Best Practice Papers"
+    url: paper/#best-practice-papers
+  - title: "Annual Reports"
+    url: /pub/paper/#annual-reports
