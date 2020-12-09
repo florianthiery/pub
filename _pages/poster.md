@@ -12,9 +12,9 @@ sidebar:
 
 -   ![gb](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-squared/gb.png) Florian Thiery, Allard Mees, Dennis Gottwald (2020). _Linked Open Samian Ware - Transformation and modelling of vagueness and uncertainty_, Linked Pasts 6, University of London and British Library, virtual, 4th October 2020. DOI: [10.5281/zenodo.4293761](https://doi.org/10.5281/zenodo.4293761).
 
--   ![de](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-squared/de.png) Florian Thiery, Timo Homburg (2020). _Linked Geodata in Action: Beispiel COVID-19_, AGIT 2020 connecting spatially – virtually (AGIT), virtual, 08th July 2020. DOI: [10.5281/zenodo.3930458](https://doi.org/10.5281/zenodo.3930458).
+-   ![de](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-squared/de.png) Florian Thiery, Timo Homburg (2020). _Linked Geodata in Action: Beispiel COVID-19_, AGIT 2020 connecting spatially – virtually (AGIT), virtual, 8th July 2020. DOI: [10.5281/zenodo.3930458](https://doi.org/10.5281/zenodo.3930458).
 
--   ![de](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-squared/de.png) Timo Homburg, Florian Thiery (2020). _ᚑᚌᚔ Linked Ogham Stones - Semantische Modellierung und prototypische Analyse irischer Ogham-Inschriften_, DHd2020 Spielräume: Digital Humanities zwischen Modellierung und Interpretation, Paderborn, Germany, 05th March 2020. DOI: [10.5281/zenodo.3697059](https://doi.org/10.5281/zenodo.3697059).
+-   ![de](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-squared/de.png) Timo Homburg, Florian Thiery (2020). _ᚑᚌᚔ Linked Ogham Stones - Semantische Modellierung und prototypische Analyse irischer Ogham-Inschriften_, DHd2020 Spielräume: Digital Humanities zwischen Modellierung und Interpretation, Paderborn, Germany, 5th March 2020. DOI: [10.5281/zenodo.3697059](https://doi.org/10.5281/zenodo.3697059).
 
 ## 2019
 
@@ -24,7 +24,7 @@ sidebar:
 
 -   ![de](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-squared/de.png) Florian Thiery (2019). _Hic sunt dracones! Der digitale Wandel zur Archäologie 4.0 am Beispiel römischer Münzen_, 9. Workshop der AG CAA, Wilhelmshaven, Germany, 23rd September 2019. DOI: [10.5281/zenodo.3403057](https://doi.org/10.5281/zenodo.3403057).
 
--   ![de](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-squared/de.png) Florian Thiery (2019). _Academic Meta Tool – Ein RDF basiertes Web-Tool zur Modellierung des Zweifels in den Digital Humanities_, deRSE19 - Konferenz für ForschungssoftwareentwicklerInnen in Deutschland (deRSE19), Potsdam, Germany, 05th June 2019. DOI: [10.5281/zenodo.3237306](https://doi.org/10.5281/zenodo.3237306).
+-   ![de](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-squared/de.png) Florian Thiery (2019). _Academic Meta Tool – Ein RDF basiertes Web-Tool zur Modellierung des Zweifels in den Digital Humanities_, deRSE19 - Konferenz für ForschungssoftwareentwicklerInnen in Deutschland (deRSE19), Potsdam, Germany, 5th June 2019. DOI: [10.5281/zenodo.3237306](https://doi.org/10.5281/zenodo.3237306).
 
 ## 2018
 
@@ -32,7 +32,7 @@ sidebar:
 
 ## 2017
 
--   ![de](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-squared/de.png) Florian Thiery, Axel Kunz, Matthias Dufner (2017). _labeling system_, Get Together DH-RMU, Mainz, Germany, 21stSeptember 2017. DOI: [10.5281/zenodo.921997](https://doi.org/10.5281/zenodo.921997).
+-   ![de](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-squared/de.png) Florian Thiery, Axel Kunz, Matthias Dufner (2017). _labeling system_, Get Together DH-RMU, Mainz, Germany, 21st September 2017. DOI: [10.5281/zenodo.921997](https://doi.org/10.5281/zenodo.921997).
 
 ## 2015
 
