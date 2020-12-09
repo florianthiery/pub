@@ -67,8 +67,6 @@ barAbout:
         url: /about/#developers
 
 
-barDatapub:
-  - title: "Data Publications"
-    children:
-      - title: "Releases"
-        url: /datapub/#releases
+barPaper:
+  - title: "peer-reviewed paper"
+    url: /paper/#peer-reviewed_paper
