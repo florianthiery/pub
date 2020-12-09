@@ -10,62 +10,6 @@ main:
   - title: "Conferences"
     url: /conf/
 
-
-barDoc:
-  - title: "Transformation Workflow"
-    url: /doc/#transformation-workflow
-  - title: "Ontology"
-    url: /doc/#ontology
-    children:
-      - title: "Prefixes"
-        url: /doc/#prefixes
-      - title: "Class Structure"
-        url: /doc/#class-structure
-      - title: "  1) Detailed InformationCarrier"
-        url: doc/#detailed-informationcarrier
-      - title: "  2) Detailed Inscription"
-        url: doc/#detailed-inscription
-      - title: "  3) Detailed Actor"
-        url: doc/#detailed-actor
-      - title: "  4) Detailed Location"
-        url: doc/#detailed-location
-      - title: "  5) Detailed Potform"
-        url: doc/#detailed-potform
-  - title: "AMT-Model"
-    url: /doc/#amt-model
-    children:
-      - title: "AMT-Model Examples"
-        url: doc/#amt-model-examples
-  - title: "Provenance Modelling"
-    url: /doc/#provenance-modelling
-  - title: "CSV-Documentation"
-    url: /doc/#csv-documentation
-    children:
-      - title: "File Structure"
-        url: /doc/#file-structure
-      - title: "Instances"
-        url: /doc/#instances
-      - title: "Semantic Relations"
-        url: /doc/#semantic-relations
-
-
-barLit:
-  - title: "Related Literature"
-    children:
-      - title: "Papers and Thesis"
-        url: /lit/#papers-and-thesis
-      - title: "Talks"
-        url: /lit/#talks
-      - title: "Poster"
-        url: /lit/#poster
-
-
-barAbout:
-  - title: "About"
-    children:
-      - title: "Developers"
-        url: /about/#developers
-
 barPaper:
   - title: "peer-reviewed paper"
     url: /paper/#peer-reviewed-paper
@@ -125,3 +69,9 @@ barRsdata:
     url: /rsdata/#research-software
   - title: "Research Data"
     url: /rsdata/#research-data
+
+barConf:
+  - title: "Conference Session Chairs"
+    url: /conf/#conference-session-chairs
+  - title: "Conference Videos"
+    url: /conf/#conference-videos

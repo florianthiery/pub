@@ -5,7 +5,7 @@ header:
   image: /assets/images/header.jpg
   caption: "Photo credit: Florian Thiery, CC BY 4.0"
 sidebar:
-  nav: "barVideo"
+  nav: "barConf"
 ---
 
 ## Conference Session Chairs
