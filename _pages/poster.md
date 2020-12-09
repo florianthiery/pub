@@ -42,4 +42,4 @@ sidebar:
 
 -   ![de](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-squared/de.png) Florian Thiery, Kai-Christian Bruhn (2014). _Das Labeling System – Lösen der Mehrdeutigkeiten von Räumen und deren Funktion_, Forum DH Mainz, Mainz, Germany, 30th July 2014. DOI: [10.5281/zenodo.292974](https://doi.org/10.5281/zenodo.292974).
 
-![gb](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-squared/gb.png) Florian Thiery (2014). _Linking potter, pots and places: a LOD approach to samian ware_, Computer Applications and Quantitative Methods in Archaeology (CAA), Paris, France, 24th April 2014. DOI: [10.5281/zenodo.292975](https://doi.org/10.5281/zenodo.292975).
+-   ![gb](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-squared/gb.png) Florian Thiery (2014). _Linking potter, pots and places: a LOD approach to samian ware_, Computer Applications and Quantitative Methods in Archaeology (CAA), Paris, France, 24th April 2014. DOI: [10.5281/zenodo.292975](https://doi.org/10.5281/zenodo.292975).
