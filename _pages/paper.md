@@ -68,7 +68,7 @@ sidebar:
 
 -   ![gb](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-squared/gb.png) Florian Thiery, Julius Fintzen (2020). _The KonGeoS Network - Working Groups and Outreach_. `Working Paper` `04/02/2020`. DOI: [10.5281/zenodo.3635468](https://doi.org/10.5281/zenodo.3635468).
 
--   ![gb](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-squared/gb.png) Severin Brochhagen, Florian Thiery (2019). _KonGeoS: Connecting the students of German speaking universities_. `Presentation` `18/09/2019`. DOI: [10.5281/zenodo.3627948](https://doi.org/10.5281/zenodo.3627948).
+-   ![gb](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-squared/gb.png) Severin Brochhagen, Florian Thiery (2019). _KonGeoS: Connecting the students of German speaking universities_. Presentation 18/09/2019. DOI: [10.5281/zenodo.3627948](https://doi.org/10.5281/zenodo.3627948).
 
 ## Best Practice Papers
 
