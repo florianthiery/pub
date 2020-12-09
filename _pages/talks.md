@@ -1,6 +1,6 @@
 ---
 permalink: /talks/
-title: "Talks"
+title: "Scientific Talks"
 header:
   image: /assets/images/header.jpg
   caption: "Photo credit: Florian Thiery, CC BY 4.0"
@@ -8,9 +8,7 @@ sidebar:
   nav: "barTalk"
 ---
 
-## Scientific Talks
-
-### 2020
+## 2020
 
 -   ![gb](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-squared/gb.png) Florian Thiery (2020). _#LinkedPipes - Linked Data Tools and Workflows_, Linked Pasts 6, University of London and British Library, virtual, 8th October 2020. DOI: [10.5281/zenodo.4311282](https://doi.org/10.5281/zenodo.4311282).
 
@@ -34,7 +32,7 @@ sidebar:
 
 -   ![gb](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-squared/gb.png) Sophie Charlotte Schmidt, Florian Thiery (2020). _SPARQLing ᚑᚌᚆᚐᚋ Stones: New options for analysing analog editions by digitisation in Wikidata_, Graph Technologies in the Digital Humanities. Modelling the Scholarly Process, Vienna, Germany, 21th February 2020. DOI: [10.5281/zenodo.3675284](https://doi.org/10.5281/zenodo.3675284).
 
-### 2019
+## 2019
 
 -   ![gb](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-squared/gb.png) Florian Thiery (2019). _#Linked Pipes_, Linked Pasts V, Bordeaux, Germany, 11st December 2019. DOI: [10.5281/zenodo.3688792](https://doi.org/10.5281/zenodo.3688792).
 
@@ -54,7 +52,7 @@ sidebar:
 
 -   ![de](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-squared/de.png) Florian Thiery (2019). _Java und Linked Data im RGZM: Herausforderungen in einem archäologischen Museum_, Java User Group Mainz Lightning Talks, Mainz, Germany, 16th January 2019. DOI: [10.5281/zenodo.2540228](https://doi.org/10.5281/zenodo.2540228).
 
-### 2018
+## 2018
 
 -   ![de](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-squared/de.png) _Zweifeln erlaubt! Modellierung von Vagheit im Graphen am Beispiel des KonGeoS-Netzwerks_, 13. Konferenz der GeodäsieStudierenden, Munich, Germany, 30th November 2018. DOI: [10.5281/zenodo.1494175](https://doi.org/10.5281/zenodo.1494175).
 
@@ -74,13 +72,13 @@ sidebar:
 
 -   ![de](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-squared/de.png) _Academic Meta Tool – Ein Web-Tool zur Modellierung des Zweifels_, with Martin Unold, Graphentechnologien 2018, Mainz, Germany, 19th January 2018. DOI: [10.5281/zenodo.1155727](https://doi.org/10.5281/zenodo.1155727).
 
-### 2017
+## 2017
 
 -   ![gb](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-squared/gb.png) _Avalanches on Atlantis - Real or Fake? The "true" story!_, with Rania Taani, 30. International Geodetic Students Meeting, Zagreb, Croatia, 27th June 2017. DOI: [10.5281/zenodo.817469](https://doi.org/10.5281/zenodo.817496).
 
 -   ![de](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-squared/de.png) _Das Labeling System: Erstellung kontrollierter Linked Open Data Vokabulare als Metadaten-Hub für archäologische Fachdatenbanken,_ with Allard Mees, 8. Workshop der AG CAA, Heidelberg, Germany, 11st February 2017. DOI: [10.5281/zenodo.292554](https://doi.org/10.5281/zenodo.292554).
 
-### 2016
+## 2016
 
 -   ![de](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-squared/de.png) _Digitale Methoden zur Erarbeitung von archäologisch-relativ-chronologischen Zeitintervallen_, with Allard Mees, Internationale Tagung der Österreichischen Gesellschaft für Mittelalterarchäologie, Graz, Austria, 20th September 2016. DOI: [10.5281/zenodo.292957](https://doi.org/10.5281/zenodo.292957).
 
@@ -90,14 +88,14 @@ sidebar:
 
 -   ![de](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-squared/de.png) _E1-P1-Arches!_ _Aspekte interoperabler Modellierung and Bereitstellung archäologischer Fachdaten with dem Arches Framework,_ with Thomas Engel, 7. Workshop der AG CAA, Hamburg, Germany, 05th February 2016. DOI: [10.5281/zenodo.292967](https://doi.org/10.5281/zenodo.292967).
 
-### 2015
+## 2015
 
 -   ![gb](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-squared/gb.png) _Linked Samian Ware: challenges of a LOD approach to samian ware_, Computer Applications and Quantitative Methods in Archaeology (CAA), Siena, Italy, 01st April 2015. DOI: [10.5281/zenodo.292968](https://doi.org/10.5281/zenodo.292968).
 
 -   ![gb](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-squared/gb.png) _The Labeling System: A Bottom-up Approach for Enriched Vocabularies in the Humanities_, with Thomas Engel, Computer Applications and Quantitative Methods in Archaeology (CAA), Siena, Italy, 31st März 2015. DOI: [10.5281/zenodo.2540477](https://doi.org/10.5281/zenodo.2540477).
 
-### 2014
+## 2014
 
 -   ![gb](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-squared/gb.png) _The Labeling System - A New Approach to Overcome the Vocabulary Bottleneck_, with Michael Piotrowski, Giovanni Colavizza and Kai-Christian Bruhn, DH-CASE II, Fort Collins, USA, 10th September 2014. DOI: [10.5281/zenodo.2540522](https://doi.org/10.5281/zenodo.2540522).
 
--   ![de](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-squared/de.png) _Linked Samian Ware: Potentiale von Linked Data in der Archäologie_, 5. Workshop der AG CAA, Tübingen, Germany, 15th February 2014. DOI: [10.5281/zenodo.292971](https://doi.org/10.5281/zenodo.292971).
+-   ![de](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-squared/de.png) Florian Thiery (2014). _Linked Samian Ware: Potentiale von Linked Data in der Archäologie_, 5. Workshop der AG CAA, Tübingen, Germany, 15th February 2014. DOI: [10.5281/zenodo.292971](https://doi.org/10.5281/zenodo.292971).

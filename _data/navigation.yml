@@ -87,3 +87,35 @@ barPaper:
     url: paper/#best-practice-papers
   - title: "Annual Reports"
     url: /paper/#annual-reports
+
+barTalk:
+  - title: "2020"
+    url: /talks/#2020
+  - title: "2019"
+    url: /talks/#2019
+  - title: "2018"
+    url: /talks/#2018
+  - title: "2017"
+    url: /talks/#2017
+  - title: "2016"
+    url: /talks/#2016
+  - title: "2015"
+    url: /talks/#2015
+  - title: "2014"
+    url: /talks/#2014
+
+barPoster:
+  - title: "2020"
+    url: /talks/#2020
+  - title: "2019"
+    url: /talks/#2019
+  - title: "2018"
+    url: /talks/#2018
+  - title: "2017"
+    url: /talks/#2017
+  - title: "2016"
+    url: /talks/#2016
+  - title: "2015"
+    url: /talks/#2015
+  - title: "2014"
+    url: /talks/#2014
