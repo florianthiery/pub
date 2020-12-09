@@ -2,7 +2,7 @@
 permalink: /conf/
 title: "Conferences"
 header:
-  image: /assets/images/header.jpg
+  image: /assets/images/header6.jpg
   caption: "Photo credit: Florian Thiery, CC BY 4.0"
 sidebar:
   nav: "barConf"

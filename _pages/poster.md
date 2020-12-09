@@ -2,7 +2,7 @@
 permalink: /poster/
 title: "Scientific Poster"
 header:
-  image: /assets/images/header.jpg
+  image: /assets/images/header1.jpg
   caption: "Photo credit: Florian Thiery, CC BY 4.0"
 sidebar:
   nav: "barPoster"

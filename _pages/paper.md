@@ -2,7 +2,7 @@
 permalink: /paper/
 title: "Paper"
 header:
-  image: /assets/images/header.jpg
+  image: /assets/images/header2.jpg
   caption: "Photo credit: Florian Thiery, CC BY 4.0"
 sidebar:
   nav: "barPaper"

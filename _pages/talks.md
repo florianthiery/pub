@@ -2,7 +2,7 @@
 permalink: /talks/
 title: "Scientific Talks"
 header:
-  image: /assets/images/header.jpg
+  image: /assets/images/header5.jpg
   caption: "Photo credit: Florian Thiery, CC BY 4.0"
 sidebar:
   nav: "barTalk"
