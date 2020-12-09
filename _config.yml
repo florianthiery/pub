@@ -60,6 +60,9 @@ author:
   avatar : "/assets/images/fthiery.png"
   bio    : "Research Software Engineer"
   links:
+    - label: "ORCID"
+      icon: "fas fa-fw fa-orcid"
+      url: "https://orcid.org/0000-0002-3246-3531"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "http://fthiery.de"
@@ -72,9 +75,9 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/florianthiery"
-    #- label: "Instagram"
-    #  icon: "fab fa-fw fa-instagram"
-    #  url: "https://instagram.com/"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "www.linkedin.com/in/florianthiery"
 
 footer:
   links:
