@@ -28,19 +28,23 @@ sidebar:
 
 -   ![gb](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-squared/gb.png) Michael Mayer, Florian Thiery, Julius Fintzen, Monika Przybilla, Katrin Hess (2020). _On the Role of Professional Organizations in the Further Development Process of Study Programs_. In Fédération Internationale des Géomètres, Eds., FIG Working Week 2020 Proceedings, Kopenhagen, Denmark, 2020. ISBN 978-87-92853-93-6. DOI: [10.5281/zenodo.3751794](https://doi.org/10.5281/zenodo.3751794).
 
-## extended abstrats
+## whitepaper
+
+-   ![gb](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-squared/gb.png) Joseph Abhayaratna, Linda van den Brink, Nicholas Car, Rob Atkinson, Timo Homburg, Frans Knibbe, Kris McGlinn, Anna Wagner, Mathias Bonduel, Mads Holten Rasmussen, Florian Thiery (2020). _OGC Benefits of Representing Spatial Data Using Semantic and Graph Technologies_. Open Geospatial Consortium Whitepaper, HTML: [19-078r1](http://docs.ogc.org/wp/19-078r1/19-078r1.html).
+
+## extended abstracts
 
 -   ![de](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-squared/de.png) Florian Thiery, Timo Homburg (2020). _QGIS - A SPARQLing Unicorn? Eine Einführung in Linked Open Geodata zur Integration von RDF in QGIS Plugins_. In FOSSGIS e.V., Jörg Thomsen, Eds., FOSSGIS 2020: Anwenderkonferenz für Freie und Open Source Software für Geoinformationssysteme, FOSSGIS e.V., 68-72, DOI: [10.5281/zenodo.3719127](https://doi.org/10.5281/zenodo.3719127).
 
 -   ![de](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-squared/de.png) Timo Homburg, Florian Thiery (2020). _Linked Ogham Stones - Semantische Modellierung und prototypische Analyse irischer Ogham-Inschriften_. In Christof Schöch, Eds., DHd 2020 Spielräume: Digital Humanities zwischen Modellierung und Interpretation. Konferenzabstracts, 334-337, DOI: [10.5281/zenodo.3715379](https://doi.org/10.5281/zenodo.3715379).
 
-## whitepaper
-
--   ![gb](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-squared/gb.png) Joseph Abhayaratna, Linda van den Brink, Nicholas Car, Rob Atkinson, Timo Homburg, Frans Knibbe, Kris McGlinn, Anna Wagner, Mathias Bonduel, Mads Holten Rasmussen, Florian Thiery (2020). _OGC Benefits of Representing Spatial Data Using Semantic and Graph Technologies_. Open Geospatial Consortium Whitepaper, HTML: [19-078r1](http://docs.ogc.org/wp/19-078r1/19-078r1.html).
-
 ## online publications
 
 -   ![gb](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-squared/gb.png) Florian Thiery, Timo Homburg, Sophie Charlotte Schmidt, Martina Trognitz, Monika Przybilla (2020). _SPARQLing Geodesy for Cultural Heritage – New Opportunities for Publishing and Analysing Volunteered Linked (Geo-)Data_. In Fédération Internationale des Géomètres, Article of the Month - October 2020. HTML: [Thiery_etal_October_2020](https://fig.net/resources/monthly_articles/2020/Thiery_etal_October_2020.asp).
+
+-   ![de](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-squared/de.png) Sophie Charlotte Schmidt, Henrike Backhaus, Christin Keller, Louise Rokohl, Florian Thiery (2020). _Preliminary report on the NFDI4Objects survey_. In NFDI4Objects Proposal, Open Science Framework (OSF). HTML: [PDF](https://osf.io/zcexm/).
+
+-   ![de](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-squared/de.png) Kai-Christian Bruhn, Florian Thiery, et al. (2020). _NFDI4Objects Proposal_. In Open Science Framework (OSF). DOI: [10.17605/OSF.IO/4T29E](https://osf.io/4t29e/).
 
 ## thesises
 
