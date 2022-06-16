@@ -8,6 +8,16 @@ sidebar:
   nav: "barTalk"
 ---
 
+## 2022
+
+![gb](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-squared/gb.png) **Geodata as part of a Geospatial Knowledge Graph: Workflows and Tools on the example of Irish ᚑᚌᚆᚐᚋ Stones**
+
+-   authors: Florian Thiery
+-   event: 34th International Geodetic Students Meeting (IGSM)
+-   date: 08.06.2022
+-   location: Hannover, Germany
+-   DOI: [10.5281/zenodo.6642501](https://doi.org/10.5281/zenodo.6642501)
+
 ## 2020
 
 -   ![gb](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-squared/gb.png) Florian Thiery (2020). _#LinkedPipes - Linked Data Tools and Workflows_, Linked Pasts 6, University of London and British Library, virtual, 8th October 2020. DOI: [10.5281/zenodo.4311282](https://doi.org/10.5281/zenodo.4311282).
