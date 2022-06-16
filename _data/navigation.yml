@@ -33,6 +33,10 @@ barPaper:
     url: /paper/#annual-reports
 
 barTalk:
+  - title: "2022"
+    url: /talks/#2022
+  - title: "2021"
+    url: /talks/#2021
   - title: "2020"
     url: /talks/#2020
   - title: "2019"
